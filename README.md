@@ -56,14 +56,14 @@ cd ../frontend
 npm start
 ```
 
-Usage
+## Usage
 Open your browser and go to http://localhost:3000
 
 Add and manage your expenses and income easily
 
 Data is stored securely in MongoDB
 
-Technologies Used
+## Technologies Used
 React
 GraphQL
 Node.js with Express
@@ -71,5 +71,5 @@ MongoDB
 Apollo Client and Server
 Passportjs for authentication
 
-Contributing
+## Contributing
 Feel free to submit issues or pull requests if you want to improve the project!
